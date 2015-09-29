@@ -12,6 +12,14 @@ To look at spoken words mainly (and not written books), a movie script might per
 files and open them in the program. Otherwise add novels or so in .txt format, the more books you add the more accurate common words appear at the top.
 
 
+To find books, try 
+http://www.gutenberg.org/
+
+https://openlibrary.org/
+
+
+
+
 
 
 
