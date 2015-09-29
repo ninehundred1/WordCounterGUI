@@ -19,6 +19,9 @@ http://www.gutenberg.org/
 https://openlibrary.org/
 
 
+To run, you can just download the ExecutableDistribution folder and run the WordCounterGUI.exe file.
+
+
 
 
 
